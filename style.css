@@ -1,0 +1,15 @@
+#card {
+  color: aliceblue;
+  background-color: #1d1d1d;
+  box-shadow: 0px 0px 15px #323232;
+}
+#section3 {
+  color: white;
+  height: 50vh;
+}
+#section4 {
+  color: aliceblue;
+  background-color: rgb(37, 37, 37);
+  height: 50vh;
+  padding-top: 3%;
+}
